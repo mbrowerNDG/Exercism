@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+
+        {
+            "name": "Dart: Run all Tests",
+            "type": "dart",
+            "request": "launch",
+            "program": "/Users/Matthew/Exercism/dart/two-fer/test/two_fer_test.dart"
+        },
+        {
+            "name": "Dart",
+            "program": "/Users/Matthew/Exercism/dart/hello-world/lib/hello_world.dart",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
